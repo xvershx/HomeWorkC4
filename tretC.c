@@ -17,7 +17,7 @@ int main()
             printf("NO\n");
             break;
         }
-        if (one == 0) printf("YES");
+        if (one == 0) printf("YES\n");
     }
 
     return 0;
